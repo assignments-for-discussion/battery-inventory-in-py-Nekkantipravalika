@@ -13,7 +13,7 @@ def count_batteries_by_usage(cycles):
             dict['mediumCount'] += 1
         else:
             dict['highCount'] += 1
-   return dic
+    return dic
    
  
   
